@@ -1,7 +1,7 @@
 {
-  "version": "5.7.2",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.2/NhacViec_Setup_5.7.2_win-x64.exe",
-  "sha256": "B80222C309912E74ED3E0B2F6CECCFBB07DEED8120E9B1D08457C1CC4C4354AF",
-  "notes": "## Thay đổi so với 5.7.1\r\n\r\n- Nút **Để sau** và nút đóng vẫn hoạt động trong lúc tải; thao tác này dừng tải an toàn, xóa file tạm và giữ ứng dụng tiếp tục chạy.\r\n- Hiển thị dung lượng đã tải, tổng dung lượng, tốc độ tải và thời gian ước tính còn lại để người dùng biết tiến trình không bị treo.\r\n- Tăng bộ đệm tải xuống và giới hạn tần suất cập nhật giao diện để quá trình tải ổn định, ít giật hơn.\r\n- Ngăn khởi chạy nhiều lượt tải cập nhật cùng lúc và cho phép thử tải lại sau khi dừng hoặc gặp lỗi.\r\n- Phân biệt rõ trạng thái đang tải, đang dừng và đã tải/xác minh SHA-256 trước khi cài đặt.",
+  "version": "5.7.3",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.3/NhacViec_Setup_5.7.3_win-x64.exe",
+  "sha256": "76FCE4F68913BDB7160EF1A27BE8A4EAC2D8FF4A6BE65007991AA3F1017870C2",
+  "notes": "## Thay đổi so với 5.7.2\r\n\r\n- Sửa phần cập nhật trong **Cài đặt & dữ liệu** không còn hiển thị nguyên văn Markdown dài và lộn xộn.\r\n- Trạng thái cập nhật được rút gọn thành một dòng rõ ràng, có màu và dấu trạng thái phù hợp.\r\n- Nút cập nhật giữ kích thước ổn định, không bị ép chữ thành nhiều dòng khó đọc; trên màn hình hẹp sẽ tự chuyển thành nút toàn chiều rộng.\r\n- Ghi chú phiên bản được trình bày thành tiêu đề và danh sách gạch đầu dòng riêng trong cửa sổ cập nhật.\r\n- Khi bắt đầu tải, danh sách thay đổi tự thu gọn để ưu tiên tiến trình, dung lượng, tốc độ và thời gian còn lại.",
   "mandatory": false
 }
