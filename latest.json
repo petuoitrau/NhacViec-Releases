@@ -1,7 +1,7 @@
 {
-  "version": "5.7.1",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.1/NhacViec_Setup_5.7.1_win-x64.exe",
-  "sha256": "D432EE47926F17A3D6D4AFBC3D4CEF3A7CD3572DB4C0E78D78E2BB8AC1A97805",
-  "notes": "## Thay đổi so với 5.7.0\r\n\r\n- Kiểm tra ngày và giờ khi nhập nhanh; chặn tạo công việc với ngày không tồn tại hoặc thời điểm đã qua.\r\n- Hỗ trợ thêm các cách nhập tự nhiên như `sáng mai`, `chiều nay`, `tối nay`, `cuối ngày`, `cuối tuần` và `tuần sau`.\r\n- Nhận diện nhóm tùy chỉnh đã có trong ứng dụng; có thể dùng cú pháp `#TênNhóm` hoặc `[Tên nhóm]`.\r\n- Hiển thị cảnh báo trực tiếp trong phần xem trước và cho phép nhấn `Esc` để xóa nhanh nội dung đang nhập.\r\n- Kế hoạch thông minh chỉ xếp trong thời gian còn lại của hôm nay, không âm thầm đẩy công việc sang ngày mai.\r\n- Hiển thị riêng các công việc chưa thể xếp do hết thời gian và làm sạch kế hoạch cũ trước khi áp dụng kế hoạch mới.",
+  "version": "5.7.2",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.2/NhacViec_Setup_5.7.2_win-x64.exe",
+  "sha256": "B80222C309912E74ED3E0B2F6CECCFBB07DEED8120E9B1D08457C1CC4C4354AF",
+  "notes": "## Thay đổi so với 5.7.1\r\n\r\n- Nút **Để sau** và nút đóng vẫn hoạt động trong lúc tải; thao tác này dừng tải an toàn, xóa file tạm và giữ ứng dụng tiếp tục chạy.\r\n- Hiển thị dung lượng đã tải, tổng dung lượng, tốc độ tải và thời gian ước tính còn lại để người dùng biết tiến trình không bị treo.\r\n- Tăng bộ đệm tải xuống và giới hạn tần suất cập nhật giao diện để quá trình tải ổn định, ít giật hơn.\r\n- Ngăn khởi chạy nhiều lượt tải cập nhật cùng lúc và cho phép thử tải lại sau khi dừng hoặc gặp lỗi.\r\n- Phân biệt rõ trạng thái đang tải, đang dừng và đã tải/xác minh SHA-256 trước khi cài đặt.",
   "mandatory": false
 }
