@@ -1,7 +1,7 @@
 {
-  "version": "5.7.0",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.0/NhacViec_Setup_5.7.0_win-x64.exe",
-  "sha256": "B1A531918BF556B1F273B3C1648129E5E70623AD75777219E915B73ECA3C19C1",
-  "notes": "## Thay đổi so với 5.6.4\n\n- Thêm nhập nhanh bằng câu tiếng Việt hoàn toàn offline; tự nhận diện tên việc, ngày giờ, kiểu lặp, danh mục, ưu tiên, thời lượng, nhắc trước và nhắc lại.\n- Hiển thị bản xem trước thông tin đã nhận diện trước khi tạo công việc.\n- Thêm Kế hoạch thông minh chạy trên máy, đề xuất thứ tự và khung giờ theo thời hạn, mức ưu tiên và thời lượng.\n- Kế hoạch chỉ được áp dụng sau khi người dùng xác nhận, không tự thay đổi giờ nhắc gốc.\n- Thêm phím tắt Ctrl+N để nhập nhanh và Ctrl+Shift+P để mở Kế hoạch thông minh.",
+  "version": "5.7.1",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.1/NhacViec_Setup_5.7.1_win-x64.exe",
+  "sha256": "D432EE47926F17A3D6D4AFBC3D4CEF3A7CD3572DB4C0E78D78E2BB8AC1A97805",
+  "notes": "## Thay đổi so với 5.7.0\r\n\r\n- Kiểm tra ngày và giờ khi nhập nhanh; chặn tạo công việc với ngày không tồn tại hoặc thời điểm đã qua.\r\n- Hỗ trợ thêm các cách nhập tự nhiên như `sáng mai`, `chiều nay`, `tối nay`, `cuối ngày`, `cuối tuần` và `tuần sau`.\r\n- Nhận diện nhóm tùy chỉnh đã có trong ứng dụng; có thể dùng cú pháp `#TênNhóm` hoặc `[Tên nhóm]`.\r\n- Hiển thị cảnh báo trực tiếp trong phần xem trước và cho phép nhấn `Esc` để xóa nhanh nội dung đang nhập.\r\n- Kế hoạch thông minh chỉ xếp trong thời gian còn lại của hôm nay, không âm thầm đẩy công việc sang ngày mai.\r\n- Hiển thị riêng các công việc chưa thể xếp do hết thời gian và làm sạch kế hoạch cũ trước khi áp dụng kế hoạch mới.",
   "mandatory": false
 }
