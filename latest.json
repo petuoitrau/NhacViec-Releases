@@ -1,7 +1,7 @@
 {
-  "version": "5.6.4",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.6.4/NhacViec_Setup_5.6.4_win-x64.exe",
-  "sha256": "066DCD878DF1993A353023A2AEE9448AA01EF19674DFEF385D12EDFD2525C3F7",
-  "notes": "Cập nhật tự động Nhắc Việc 5.6.4",
+  "version": "5.7.0",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.0/NhacViec_Setup_5.7.0_win-x64.exe",
+  "sha256": "B1A531918BF556B1F273B3C1648129E5E70623AD75777219E915B73ECA3C19C1",
+  "notes": "Cập nhật tự động Nhắc Việc 5.7.0",
   "mandatory": false
 }
