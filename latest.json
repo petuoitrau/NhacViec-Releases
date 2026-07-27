@@ -2,6 +2,6 @@
   "version": "5.7.0",
   "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.0/NhacViec_Setup_5.7.0_win-x64.exe",
   "sha256": "B1A531918BF556B1F273B3C1648129E5E70623AD75777219E915B73ECA3C19C1",
-  "notes": "Cập nhật tự động Nhắc Việc 5.7.0",
+  "notes": "## Thay đổi so với 5.6.4\n\n- Thêm nhập nhanh bằng câu tiếng Việt hoàn toàn offline; tự nhận diện tên việc, ngày giờ, kiểu lặp, danh mục, ưu tiên, thời lượng, nhắc trước và nhắc lại.\n- Hiển thị bản xem trước thông tin đã nhận diện trước khi tạo công việc.\n- Thêm Kế hoạch thông minh chạy trên máy, đề xuất thứ tự và khung giờ theo thời hạn, mức ưu tiên và thời lượng.\n- Kế hoạch chỉ được áp dụng sau khi người dùng xác nhận, không tự thay đổi giờ nhắc gốc.\n- Thêm phím tắt Ctrl+N để nhập nhanh và Ctrl+Shift+P để mở Kế hoạch thông minh.",
   "mandatory": false
 }
