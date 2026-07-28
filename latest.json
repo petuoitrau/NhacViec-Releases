@@ -1,7 +1,7 @@
 {
-  "version": "6.2.2",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.2/NhacViec_Setup_6.2.2_win-x64.exe",
-  "sha256": "CA12A932B3EA3E425DC5786740B492AEFB9938B9F71D334CA6E3B989C6954E20",
-  "notes": "## Thay đổi so với 6.2.1\r\n\r\n- Sửa lỗi công việc không đặt hạn hoàn thành bị hiểu nhầm thành ngày 01/01/1970 và hiển thị số phút trễ hạn rất lớn.\r\n- Tự phát hiện và xóa giá trị hạn hoàn thành hỏng đã phát sinh từ các phiên bản trước mà không ảnh hưởng giờ nhắc thật.\r\n- Dọn các bản ghi lịch sử quá hạn giả liên quan đến mốc năm 1970 và lưu lại dữ liệu đã sửa an toàn.\r\n- Bảo vệ trường hạn hoàn thành để giá trị trống không bị chuyển lại thành ngày cũ trong những lần hiển thị hoặc lưu tiếp theo.\r\n- Đổi nhãn thời gian thành dạng dễ đọc như “Trễ 5 giờ 14 phút”, “Trễ 2 ngày” hoặc “Hạn 30/07/2026” thay vì chuỗi phút dài khó hiểu.",
+  "version": "6.3.0",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.3.0/NhacViec_Setup_6.3.0_win-x64.exe",
+  "sha256": "DDDC20FF4732C1CA1607BF28D1B3D09D91D20A128543CC6393BA16273671460E",
+  "notes": "## Thay đổi so với 6.2.2\r\n\r\n- Thêm hệ thống Nhãn cho từng công việc, hỗ trợ tối đa 10 nhãn và đồng bộ cùng dữ liệu công việc giữa các máy.\r\n- Hiển thị nhãn gọn ngay trên danh sách; phần nhãn thừa được gom thành số lượng để không làm hàng công việc bị rối.\r\n- Thêm nút lọc theo nhãn trên thanh công cụ, có số lượng công việc của từng nhãn và tùy chọn xem các việc chưa gắn nhãn.\r\n- Mở rộng tìm kiếm với cú pháp `@nhãn`, `#nhóm`, `is:priority`, `is:done`, `is:active`, `is:paused` và `is:overdue`.\r\n- Tìm kiếm thường giờ cũng xét tên công việc, ghi chú, nhóm và toàn bộ nhãn thay vì chỉ tên và ghi chú.\r\n- Ô nhập nhanh hỗ trợ gắn nhãn trực tiếp, ví dụ: `Gửi báo cáo 9h sáng mai #Công_việc @gấp @sếp`.\r\n- Bổ sung gợi ý nhãn đã dùng, thao tác thêm bằng Enter hoặc dấu phẩy, xóa nhanh bằng Backspace và giao diện phù hợp chế độ tối/Reduce motion.",
   "mandatory": false
 }
