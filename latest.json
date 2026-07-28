@@ -1,7 +1,7 @@
 {
-  "version": "6.2.1",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.1/NhacViec_Setup_6.2.1_win-x64.exe",
-  "sha256": "444C514638FC4D193459AB7188B19023D621890B2FCBF63705824BEC782FB15B",
-  "notes": "## Thay đổi so với 6.2.0\r\n\r\n- Loại bỏ hoàn toàn biểu tượng dấu tick khỏi bốn ô Hôm nay, Sắp tới, Đã hoàn thành và Tất cả.\r\n- Thu nhỏ các ô thống kê, giảm hiệu ứng trang trí và bỏ vòng sáng dày để giao diện sạch, nhẹ và hiện đại hơn.\r\n- Ô đang chọn chỉ còn nền nhấn rất nhẹ, viền màu tinh gọn và thanh màu mảnh ở cạnh dưới.\r\n- Bỏ dòng “Đang xem” dưới tiêu đề danh sách vì trạng thái đã được thể hiện bằng tiêu đề và sidebar.\r\n- Giữ nguyên vị trí cuộn khi chuyển chế độ và thêm phản hồi nhấn ngắn, không gây nhảy giao diện.\r\n- Tối ưu đồng bộ trạng thái giữa ô thống kê, sidebar, tiêu đề danh sách và bộ lọc phụ.",
+  "version": "6.2.2",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.2/NhacViec_Setup_6.2.2_win-x64.exe",
+  "sha256": "CA12A932B3EA3E425DC5786740B492AEFB9938B9F71D334CA6E3B989C6954E20",
+  "notes": "## Thay đổi so với 6.2.1\r\n\r\n- Sửa lỗi công việc không đặt hạn hoàn thành bị hiểu nhầm thành ngày 01/01/1970 và hiển thị số phút trễ hạn rất lớn.\r\n- Tự phát hiện và xóa giá trị hạn hoàn thành hỏng đã phát sinh từ các phiên bản trước mà không ảnh hưởng giờ nhắc thật.\r\n- Dọn các bản ghi lịch sử quá hạn giả liên quan đến mốc năm 1970 và lưu lại dữ liệu đã sửa an toàn.\r\n- Bảo vệ trường hạn hoàn thành để giá trị trống không bị chuyển lại thành ngày cũ trong những lần hiển thị hoặc lưu tiếp theo.\r\n- Đổi nhãn thời gian thành dạng dễ đọc như “Trễ 5 giờ 14 phút”, “Trễ 2 ngày” hoặc “Hạn 30/07/2026” thay vì chuỗi phút dài khó hiểu.",
   "mandatory": false
 }
