@@ -1,7 +1,7 @@
 {
-  "version": "6.3.1",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.3.1/NhacViec_Setup_6.3.1_win-x64.exe",
-  "sha256": "9BD22C4E217BC1072A5B6E36EA251E8FC6AE24B3ACD88DE736D10CF9E652E18C",
-  "notes": "## Thay đổi so với 6.3.0\r\n\r\n- Loại bỏ toàn bộ icon trang trí trong bốn ô Hôm nay, Sắp tới, Đã hoàn thành và Tất cả.\r\n- Loại bỏ các đường biểu đồ nhỏ và mảng trang trí không cần thiết để khu vực thống kê gọn, sạch và dễ đọc hơn.\r\n- Thu chiều cao ô thống kê xuống còn 76 px, giảm bóng đổ và bo góc để phù hợp phong cách tối giản.\r\n- Ô đang chọn chỉ dùng nền màu rất nhẹ và viền mảnh; không còn dấu tick, biểu tượng nổi hay thanh màu dày.\r\n- Ngăn các module giao diện cũ tự chèn lại icon sau khi ứng dụng render hoặc cập nhật danh sách.\r\n- Giữ nguyên thao tác lọc, hỗ trợ bàn phím và vị trí cuộn khi chuyển giữa các chế độ.",
+  "version": "6.3.2",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.3.2/NhacViec_Setup_6.3.2_win-x64.exe",
+  "sha256": "7EEF69750E2CE0BA117B49DE64912CD41CB8B5859ABE2BE2BF91323FF1EBEACF",
+  "notes": "## Thay đổi so với 6.3.1\r\n\r\n- Sửa hai nút Mật độ giao diện để thay đổi bố cục thật ngay khi bấm, không còn chỉ đổi màu nút.\r\n- Chế độ Thoải mái tăng khoảng cách, chiều cao hàng và vùng nhập liệu để dễ đọc và thao tác hơn.\r\n- Chế độ Gọn thu nhỏ danh sách, thanh công cụ, biểu mẫu, sidebar và khoảng cách tổng thể để hiển thị được nhiều công việc hơn.\r\n- Thêm trạng thái “Đang dùng” cùng mô phỏng mật độ trực quan trong Cài đặt, giúp nhận biết rõ lựa chọn hiện tại.\r\n- Ghi nhớ lựa chọn trên máy và áp dụng lại ngay khi mở ứng dụng.\r\n- Bổ sung phản hồi ngắn khi chuyển chế độ, hỗ trợ bàn phím, chế độ tối và Reduce motion.\r\n- Chuẩn hóa hướng thiết kế theo nguyên tắc của các ứng dụng quản lý công việc hiện đại: danh sách là trọng tâm, bề mặt trung tính, trạng thái chọn rõ nhưng ít trang trí.",
   "mandatory": false
 }
