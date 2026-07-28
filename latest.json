@@ -1,7 +1,7 @@
 {
-  "version": "6.3.0",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.3.0/NhacViec_Setup_6.3.0_win-x64.exe",
-  "sha256": "DDDC20FF4732C1CA1607BF28D1B3D09D91D20A128543CC6393BA16273671460E",
-  "notes": "## Thay đổi so với 6.2.2\r\n\r\n- Thêm hệ thống Nhãn cho từng công việc, hỗ trợ tối đa 10 nhãn và đồng bộ cùng dữ liệu công việc giữa các máy.\r\n- Hiển thị nhãn gọn ngay trên danh sách; phần nhãn thừa được gom thành số lượng để không làm hàng công việc bị rối.\r\n- Thêm nút lọc theo nhãn trên thanh công cụ, có số lượng công việc của từng nhãn và tùy chọn xem các việc chưa gắn nhãn.\r\n- Mở rộng tìm kiếm với cú pháp `@nhãn`, `#nhóm`, `is:priority`, `is:done`, `is:active`, `is:paused` và `is:overdue`.\r\n- Tìm kiếm thường giờ cũng xét tên công việc, ghi chú, nhóm và toàn bộ nhãn thay vì chỉ tên và ghi chú.\r\n- Ô nhập nhanh hỗ trợ gắn nhãn trực tiếp, ví dụ: `Gửi báo cáo 9h sáng mai #Công_việc @gấp @sếp`.\r\n- Bổ sung gợi ý nhãn đã dùng, thao tác thêm bằng Enter hoặc dấu phẩy, xóa nhanh bằng Backspace và giao diện phù hợp chế độ tối/Reduce motion.",
+  "version": "6.3.1",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.3.1/NhacViec_Setup_6.3.1_win-x64.exe",
+  "sha256": "9BD22C4E217BC1072A5B6E36EA251E8FC6AE24B3ACD88DE736D10CF9E652E18C",
+  "notes": "## Thay đổi so với 6.3.0\r\n\r\n- Loại bỏ toàn bộ icon trang trí trong bốn ô Hôm nay, Sắp tới, Đã hoàn thành và Tất cả.\r\n- Loại bỏ các đường biểu đồ nhỏ và mảng trang trí không cần thiết để khu vực thống kê gọn, sạch và dễ đọc hơn.\r\n- Thu chiều cao ô thống kê xuống còn 76 px, giảm bóng đổ và bo góc để phù hợp phong cách tối giản.\r\n- Ô đang chọn chỉ dùng nền màu rất nhẹ và viền mảnh; không còn dấu tick, biểu tượng nổi hay thanh màu dày.\r\n- Ngăn các module giao diện cũ tự chèn lại icon sau khi ứng dụng render hoặc cập nhật danh sách.\r\n- Giữ nguyên thao tác lọc, hỗ trợ bàn phím và vị trí cuộn khi chuyển giữa các chế độ.",
   "mandatory": false
 }
