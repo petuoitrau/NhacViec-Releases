@@ -1,7 +1,7 @@
 {
-  "version": "5.7.3",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.3/NhacViec_Setup_5.7.3_win-x64.exe",
-  "sha256": "76FCE4F68913BDB7160EF1A27BE8A4EAC2D8FF4A6BE65007991AA3F1017870C2",
-  "notes": "## Thay đổi so với 5.7.2\r\n\r\n- Sửa phần cập nhật trong **Cài đặt & dữ liệu** không còn hiển thị nguyên văn Markdown dài và lộn xộn.\r\n- Trạng thái cập nhật được rút gọn thành một dòng rõ ràng, có màu và dấu trạng thái phù hợp.\r\n- Nút cập nhật giữ kích thước ổn định, không bị ép chữ thành nhiều dòng khó đọc; trên màn hình hẹp sẽ tự chuyển thành nút toàn chiều rộng.\r\n- Ghi chú phiên bản được trình bày thành tiêu đề và danh sách gạch đầu dòng riêng trong cửa sổ cập nhật.\r\n- Khi bắt đầu tải, danh sách thay đổi tự thu gọn để ưu tiên tiến trình, dung lượng, tốc độ và thời gian còn lại.",
+  "version": "5.7.4",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.4/NhacViec_Setup_5.7.4_win-x64.exe",
+  "sha256": "D5DF972FA66DED2625C31B90CB7149863529630C0092F15CCA2E4993A882CEC9",
+  "notes": "## Thay đổi so với 5.7.3\r\n\r\n- Thêm nút Thùng rác ngay trên thanh công cụ danh sách để mở các thao tác xóa nhanh.\r\n- Có thể chọn nhiều công việc, chọn toàn bộ mục đang hiển thị hoặc chọn tất cả công việc trong ứng dụng.\r\n- Thêm thao tác chuyển nhanh danh sách đang xem vào Thùng rác, tôn trọng bộ lọc và nội dung tìm kiếm hiện tại.\r\n- Thêm thao tác chuyển toàn bộ công việc vào Thùng rác với cảnh báo xác nhận rõ số lượng.\r\n- Các thao tác hàng loạt đều chuyển vào Thùng rác thay vì xóa vĩnh viễn; có thể khôi phục trong vòng 30 ngày.\r\n- Bổ sung thanh thao tác chọn nhiều, số lượng đã chọn, bỏ chọn và hiệu ứng giao diện phù hợp với chế độ giảm chuyển động của Windows.",
   "mandatory": false
 }
