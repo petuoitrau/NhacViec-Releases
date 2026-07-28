@@ -1,7 +1,7 @@
 {
-  "version": "5.8.0",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.8.0/NhacViec_Setup_5.8.0_win-x64.exe",
-  "sha256": "3E1EB6C4B9454E27109E168A8D2920F3E911BC7BEB8320E83E8E83C18625D0CB",
-  "notes": "## Thay đổi so với 5.7.6\r\n\r\n- Thêm checklist trong từng công việc: tạo, sửa, đánh dấu hoàn thành, xóa và kéo thả đổi thứ tự các bước nhỏ.\r\n- Hiển thị tiến độ checklist ngay trong danh sách công việc; công việc lặp có tùy chọn tự bỏ tick checklist khi chuẩn bị sang chu kỳ tiếp theo.\r\n- Tách riêng **Giờ nhắc** và **Hạn hoàn thành**; hạn là tùy chọn, được kiểm tra hợp lệ và hiển thị trạng thái còn hạn hoặc trễ hạn trong danh sách.\r\n- Thêm lịch sử hoạt động theo từng công việc gồm hoàn thành, hoàn tác, mở lại, hoãn lời nhắc và quá hạn; dữ liệu được lưu cục bộ cùng file công việc.\r\n- Ghi nhận mức hoàn thành sớm, đúng hạn hoặc trễ; bổ sung thống kê hoàn thành 30 ngày, tỷ lệ đúng hạn và số bước checklist đã xong.\r\n- Các công việc cũ được tự bổ sung cấu trúc checklist, lịch sử và hạn hoàn thành mà không làm mất dữ liệu hiện có.\r\n- Sửa tên ứng dụng trên sidebar giữ trên một dòng khi thanh bên đang mở; giao diện checklist và lịch sử hỗ trợ chế độ tối, màn hình nhỏ và Reduce motion.",
+  "version": "5.8.1",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.8.1/NhacViec_Setup_5.8.1_win-x64.exe",
+  "sha256": "404053AE780DCC637069809C4267E5095DCF51BEC4EC4D13FE00D80913458124",
+  "notes": "## Thay đổi so với 5.8.0\r\n\r\n- Loại bỏ tên nhà cung cấp hạ tầng khỏi toàn bộ trạng thái cập nhật hiển thị cho người dùng; giao diện chỉ dùng các thuật ngữ chung như **kênh cập nhật** và **máy chủ cập nhật**.\r\n- Làm sạch thông báo lỗi trước khi hiển thị để không lộ tên nguồn tải, API hoặc chi tiết kỹ thuật không cần thiết.\r\n- Hỗ trợ tiếp tục tải từ phần đã có khi người dùng dừng tải, ứng dụng bị đóng hoặc kết nối bị gián đoạn.\r\n- Tự thử lại tối đa 3 lần khi đường truyền tạm thời không ổn định; không tải lại từ đầu nếu máy chủ hỗ trợ tiếp tục tải.\r\n- File tải dở được giữ an toàn trong thư mục cập nhật tối đa 7 ngày và chỉ được chuyển thành bộ cài sau khi xác minh SHA-256 thành công.\r\n- Nếu file tải dở không còn phù hợp hoặc kiểm tra toàn vẹn thất bại, ứng dụng tự xóa file đó và tải lại an toàn.",
   "mandatory": false
 }
