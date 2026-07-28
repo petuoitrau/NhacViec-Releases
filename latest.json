@@ -1,7 +1,7 @@
 {
-  "version": "5.7.5",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.5/NhacViec_Setup_5.7.5_win-x64.exe",
-  "sha256": "83A911E28F41F9321EA75918FACEAA5B80721D594C59FD1155A468CA2118664A",
-  "notes": "## Thay đổi so với 5.7.4\r\n\r\n- Sửa thanh tiêu đề danh sách không còn bẻ chữ ở các mục **Tất cả**, **Ưu tiên**, **Quá hạn**; công cụ tự xuống hàng gọn khi cửa sổ hẹp.\r\n- Trên màn hình nhỏ, khu vực **Chi tiết công việc** chuyển thành bảng trượt bên phải thay vì ép hẹp toàn bộ bố cục; có nút đóng, nền che và hỗ trợ phím Esc.\r\n- Không còn báo đỏ tên công việc ngay khi mở form mới; lỗi chỉ hiện sau khi người dùng đã nhập hoặc bấm tạo/lưu.\r\n- Thêm trạng thái trống có hướng dẫn và nút **Thêm công việc đầu tiên** hoặc **Xóa bộ lọc** tùy tình huống.\r\n- Thêm nút thu gọn/mở rộng thanh bên và ghi nhớ lựa chọn trên máy để dành thêm không gian cho danh sách.\r\n- Tối ưu dashboard, thanh tìm kiếm, nút thao tác, danh sách và panel chi tiết cho các kích thước cửa sổ 1366×768 trở xuống.\r\n- Các chuyển động của bảng chi tiết và thanh bên vẫn tôn trọng thiết lập giảm chuyển động của Windows.",
+  "version": "5.7.6",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v5.7.6/NhacViec_Setup_5.7.6_win-x64.exe",
+  "sha256": "78DAEDE2823F5995E0485C926F5EC7C9101CC52A2263F02A4499D71A9131B8AD",
+  "notes": "## Thay đổi so với 5.7.5\r\n\r\n- Sửa kiểm tra cập nhật có thể đọc nhầm `latest.json` cũ do bộ nhớ đệm của GitHub CDN.\r\n- Mỗi lần kiểm tra giờ bắt buộc lấy dữ liệu mới bằng tham số chống cache và các header `no-cache`/`no-store`.\r\n- Khi nguồn GitHub Raw lỗi hoặc trả về phiên bản bằng/cũ hơn bản đang chạy, ứng dụng tự kiểm tra chéo qua GitHub API và chọn phiên bản cao nhất hợp lệ.\r\n- Tăng kiểm tra an toàn cho manifest: chỉ chấp nhận bộ cài HTTPS đúng repository phát hành và SHA-256 hợp lệ trước khi tải.\r\n- Trạng thái cập nhật trong Cài đặt hiển thị rõ thời điểm kiểm tra và tình trạng kênh GitHub.\r\n- Làm rõ mục Tài khoản & đồng bộ: chức năng đồng bộ nhiều máy chưa được kích hoạt; dữ liệu hiện chỉ lưu trên thiết bị và có thể chuyển bằng Sao lưu/Khôi phục.",
   "mandatory": false
 }
