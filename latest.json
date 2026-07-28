@@ -1,7 +1,7 @@
 {
-  "version": "6.1.0",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.1.0/NhacViec_Setup_6.1.0_win-x64.exe",
-  "sha256": "2582B74CDCC901F50E1964B508D02819947581DBA2ABDD60670FA383651F18F9",
-  "notes": "## Thay đổi so với 6.0.1\r\n\r\n- Thiết kế lại bốn ô Hôm nay, Sắp tới, Đã hoàn thành và Tất cả theo dạng thẻ nhỏ gọn, hiện đại và chiếm ít chiều cao hơn.\r\n- Bỏ nền tím cố định của ô Hôm nay; mọi ô trở về nền trung tính khi không được chọn và chỉ dùng màu riêng cho trạng thái đang xem.\r\n- Thay nhãn lớn “Đang xem” bằng dấu xác nhận nhỏ, viền màu và thanh nhấn tinh gọn.\r\n- Sửa hiện tượng giao diện tự cuộn xuống danh sách khi bấm ô thống kê; vị trí cuộn của cửa sổ và danh sách được giữ nguyên.\r\n- Đồng bộ chính xác ô thống kê, tiêu đề danh sách, thanh điều hướng bên trái và bộ lọc phụ.\r\n- Tối ưu bố cục 4 cột trên màn hình rộng, 2 cột trên laptop hẹp và 1 cột trên cửa sổ nhỏ.\r\n- Giữ đầy đủ thao tác bằng bàn phím và tự tắt hiệu ứng chuyển động khi Windows bật Reduce motion.",
+  "version": "6.2.0",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.0/NhacViec_Setup_6.2.0_win-x64.exe",
+  "sha256": "313C12A07A1E2B611D3FDC93978E61D437D0BEAD4077428853C6F2A79BAADAC6",
+  "notes": "## Thay đổi so với 6.1.0\r\n\r\n- Thiết kế lại toàn bộ giao diện ứng dụng theo phong cách productivity hiện đại, thay vì chỉ chỉnh riêng các ô thống kê.\r\n- Chuyển sidebar từ nền xanh đậm sang nền sáng trung tính, thu gọn chiều rộng, làm mới trạng thái chọn, nhóm điều hướng và khu vực dữ liệu cục bộ.\r\n- Biến thanh tìm kiếm và các nút thao tác thành thanh công cụ nổi, kính mờ, gọn hơn và giữ cố định khi cuộn.\r\n- Làm mới phần chào, thêm thẻ ngày hiện tại và giảm khoảng trống để tập trung vào danh sách công việc.\r\n- Thiết kế lại dashboard thành bốn thẻ tóm tắt nhỏ gọn, nền trung tính; chỉ thẻ đang chọn mới sử dụng màu nhấn.\r\n- Làm mới toàn bộ danh sách công việc, checkbox, trạng thái chọn, ô nhập nhanh, panel chi tiết, trường nhập, nút lưu và các vùng cuộn.\r\n- Thiết kế lại Cài đặt, hộp thoại, thông báo và trạng thái tối để đồng nhất với giao diện mới.\r\n- Tối ưu responsive cho màn hình lớn, laptop, cửa sổ hẹp và vẫn hỗ trợ Reduce motion của Windows.",
   "mandatory": false
 }
