@@ -1,7 +1,7 @@
 {
-  "version": "6.2.0",
-  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.0/NhacViec_Setup_6.2.0_win-x64.exe",
-  "sha256": "313C12A07A1E2B611D3FDC93978E61D437D0BEAD4077428853C6F2A79BAADAC6",
-  "notes": "## Thay đổi so với 6.1.0\r\n\r\n- Thiết kế lại toàn bộ giao diện ứng dụng theo phong cách productivity hiện đại, thay vì chỉ chỉnh riêng các ô thống kê.\r\n- Chuyển sidebar từ nền xanh đậm sang nền sáng trung tính, thu gọn chiều rộng, làm mới trạng thái chọn, nhóm điều hướng và khu vực dữ liệu cục bộ.\r\n- Biến thanh tìm kiếm và các nút thao tác thành thanh công cụ nổi, kính mờ, gọn hơn và giữ cố định khi cuộn.\r\n- Làm mới phần chào, thêm thẻ ngày hiện tại và giảm khoảng trống để tập trung vào danh sách công việc.\r\n- Thiết kế lại dashboard thành bốn thẻ tóm tắt nhỏ gọn, nền trung tính; chỉ thẻ đang chọn mới sử dụng màu nhấn.\r\n- Làm mới toàn bộ danh sách công việc, checkbox, trạng thái chọn, ô nhập nhanh, panel chi tiết, trường nhập, nút lưu và các vùng cuộn.\r\n- Thiết kế lại Cài đặt, hộp thoại, thông báo và trạng thái tối để đồng nhất với giao diện mới.\r\n- Tối ưu responsive cho màn hình lớn, laptop, cửa sổ hẹp và vẫn hỗ trợ Reduce motion của Windows.",
+  "version": "6.2.1",
+  "installerUrl": "https://github.com/petuoitrau/NhacViec-Releases/releases/download/v6.2.1/NhacViec_Setup_6.2.1_win-x64.exe",
+  "sha256": "444C514638FC4D193459AB7188B19023D621890B2FCBF63705824BEC782FB15B",
+  "notes": "## Thay đổi so với 6.2.0\r\n\r\n- Loại bỏ hoàn toàn biểu tượng dấu tick khỏi bốn ô Hôm nay, Sắp tới, Đã hoàn thành và Tất cả.\r\n- Thu nhỏ các ô thống kê, giảm hiệu ứng trang trí và bỏ vòng sáng dày để giao diện sạch, nhẹ và hiện đại hơn.\r\n- Ô đang chọn chỉ còn nền nhấn rất nhẹ, viền màu tinh gọn và thanh màu mảnh ở cạnh dưới.\r\n- Bỏ dòng “Đang xem” dưới tiêu đề danh sách vì trạng thái đã được thể hiện bằng tiêu đề và sidebar.\r\n- Giữ nguyên vị trí cuộn khi chuyển chế độ và thêm phản hồi nhấn ngắn, không gây nhảy giao diện.\r\n- Tối ưu đồng bộ trạng thái giữa ô thống kê, sidebar, tiêu đề danh sách và bộ lọc phụ.",
   "mandatory": false
 }
